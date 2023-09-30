@@ -1,0 +1,30 @@
+#barralateral{
+    position: absolute;
+   height: 81%;
+   top: 12%;
+   left: 0%;
+   width: 20%;
+   background-color: cyan;
+  padding:  10px;
+}
+
+#contenido{
+    position:absolute;
+    top:12%;
+    left: 20%;
+    height: 81%;
+    width: 80%;
+    background-color: gainsboro;
+}
+
+
+#piepagina{
+    position: absolute;
+    top:93%;
+    left:0%;
+    height: 7%;
+    width:100%;
+    background-color: cadetblue;
+    text-align: center;
+    padding: 25px;
+}
